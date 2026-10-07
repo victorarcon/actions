@@ -2,7 +2,7 @@ name: Monedes
 
 on:
   push: 
-    branches: [ main ]
+    branches: [ main, test ]
 
 jobs:
   create-list:
